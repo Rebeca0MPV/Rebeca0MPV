@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello everyone, I'm Rebeca and I participate in the Alura course 👋
+
+You can talk with me in my 📧:
+
+_00001089640365sp@al.educacao.sp.gov.br_
+
+![](https://media1.tenor.com/m/Nc3RB2C0OncAAAAC/nuzzling-pillow.gif )
 
 <!--
 **Rebeca0MPV/Rebeca0MPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
